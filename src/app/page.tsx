@@ -42,6 +42,7 @@ export default function Home() {
       <div className="relative w-[520px] h-[300px] bg-gray-400 border shadow-md shadow-white">
         {id && (
           <Image
+            // Inorder to use it on web, you need to use this Url and provide the Image ID.
             src={`https://drive.google.com/uc?export=view&id=${id}`}
             sizes="300"
             fill
