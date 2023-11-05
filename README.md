@@ -6,10 +6,10 @@
   - Link your google drive to your computer.
     ![desktop link](README/google_desktop_link.png)
 - Step 2.
-  - create a folder in your google drive, name it whatever you want.
+  - Create a folder in your google drive, name it whatever you want.
     ![create folder](README/create_folder.png)
 - Step 3.
-  - make that folder public by setting general access to anyone with the link.
+  - Make that folder public by setting general access to anyone with the link.
     ![create folder](README/enable_share.png)
   - Setting General Access to Anyone with the Link.
     ![create folder](README/General_access.png)
