@@ -28,7 +28,8 @@ export default function Home() {
       </div>
       <div className="flex border border-gray-400 min-w-[320px] p-2 gap-2 rounded-sm">
         <input
-          className="w-full text-black"
+          className="w-full text-black px-2"
+          placeholder="Paste Google Drive Image Link Here!"
           type="text"
           onChange={(e) => {
             setGoogleLink(e.target.value)
